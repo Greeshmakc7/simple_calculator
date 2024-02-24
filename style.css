@@ -8,7 +8,7 @@
 
 html, body {
     height: 100%;
-    background-image: radial-gradient(at center, #253770, #382569);
+    background-image: radial-gradient(at center, #0b0b0b, #0d0d0e);
 }
 
 #container {
@@ -37,7 +37,7 @@ html, body {
     left: calc(50% - 300px);
     width: 600px;
     height: 600px;
-    background-image: radial-gradient(at center, #281f58 70%, #193444);
+    background-image: radial-gradient(at center, #cfaaf9 70%, #cdaef0);
     border-radius: 30px;
     box-shadow: 10px 10px 25px black;
     position: absolute;
@@ -117,7 +117,7 @@ html, body {
 }
 
 #nums-container {
-    background-image: linear-gradient(to top right, #16253b, #1e3047);
+    background-image: linear-gradient(to top right, #bfa6f2, #bfa6f2);
     position: absolute;
     border-radius: 10px;
     width: 299.6px;
@@ -158,19 +158,19 @@ html, body {
 }
 
 #functional-container .button:active {
-    background-color: #182a53;
+    background-color: #bfa6f2;
 }
 
 #arithmetic-container .button:active {
-    background-color: #273e61;
+    background-color: #bfa6f2;
 }
 
 #nums-container .button:active {
-    background-color: #1c385e;
+    background-color: #bfa6f2;
 }
 
 #functional-container .button {
-    border: #3e568a dashed 3px;
+    border: #bfa6f2 dashed 3px;
     font-size: 2.2em;
     width: 70px;
     height: 55px;
